@@ -13,7 +13,7 @@ public class P2_Task02_ConstantsInJava {
 		main("acsffgdfbd");
 		NewClass obj=new NewClass();
 		obj.add(1,2);
-		System.out.println(obj.Pi);
+		//System.out.println(obj.Pi);
 	}
 	public static void main(String args) {
 		System.out.println(Pi);

@@ -18,13 +18,13 @@ public class P3_Task02_OperatorsInJava {
 
 	public static void main(String[] args) {
 		operator obj = new operator();
-		obj.unaryoperators();
-		obj.arithmaticoperators();
-		obj.shiftoperators();
-		obj.relationaloperators();
+//		obj.unaryoperators();
+//		obj.arithmaticoperators();
+//		obj.shiftoperators();
+//		obj.relationaloperators();
 		obj.bitwiseandlogicaloperators();
-		obj.ternaryoperator();
-		obj.assignmentoperator();
+//		obj.ternaryoperator();
+//		obj.assignmentoperator();
 
 	}
 
